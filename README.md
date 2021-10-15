@@ -1,4 +1,4 @@
-# Dkit timetable Admin (dkit-timetable-admin)
+# Dkit timetable admin (dkit-timetable-admin)
 
 Админ-панель для расписания
 

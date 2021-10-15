@@ -1,9 +1,9 @@
 <template>
-  <p>1</p>
+  <p>qww</p>
   <p>{{ count }}</p>
 </template>
 
-<script setup lang="ts">
-import { ref } from 'vue';
-const count = ref(4);
+<script setup>
+import { ref } from "vue";
+const count = ref(34);
 </script>

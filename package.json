@@ -2,11 +2,11 @@
   "name": "dkit-timetable-admin",
   "version": "0.0.1",
   "description": "Админ-панель для расписания",
-  "productName": "Dkit timetable Admin",
+  "productName": "Dkit timetable admin",
   "author": "dkit150750 <dkit150750gmail.com>",
   "private": true,
   "scripts": {
-    "lint": "eslint --ext .js,.ts,.vue ./",
+    "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
@@ -19,12 +19,10 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
     "@quasar/app": "^3.0.0",
-    "@types/node": "^12.20.21",
-    "@typescript-eslint/eslint-plugin": "^4.16.1",
-    "@typescript-eslint/parser": "^4.16.1",
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^7.0.0",
+    "eslint-webpack-plugin": "^2.4.0",
     "workbox-webpack-plugin": "^6.3.0"
   },
   "browserslist": [
